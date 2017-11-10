@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: rgb(164, 240, 240);
+}
 h2{
+    margin-top: 40px;
+    font-size: 50px;
     text-align: center;
 }
 /*tabla */
@@ -19,12 +24,23 @@ h2{
     font-size: 50px;
     font-family: cursive;
     margin-bottom: 4px;
-    margin-left: 7px;
-    
+    margin-left: 7px;   
 }
 
-#siete{
+
+.yellow {
+    background-color: yellow;
+  }
+  
+  .red {
     background-color: red;
-}
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  .black {
+    background-color: black;
+  }
 
 
